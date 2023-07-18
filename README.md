@@ -1,6 +1,6 @@
 # Student-Result-Management
 
-# Student Result Management Introduction
+
 The Student Result Management project is a comprehensive Java project series that aims to build a major project with a strong emphasis on incorporating various functionalities and real-life usability. This project provides an excellent learning experience and exposure to Java programming and project development.
 
 # Introduction to the Student Result Management System Project
